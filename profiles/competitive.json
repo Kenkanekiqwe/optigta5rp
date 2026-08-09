@@ -1,0 +1,21 @@
+{
+  "name": "Competitive RAGE MP",
+  "target": "maximum_fps",
+  "settings": {
+    "shadows": "low",
+    "grass": "low",
+    "population_density": 0.0,
+    "population_variety": 0.0,
+    "texture_quality": "high",
+    "shader_quality": "normal",
+    "reflection_quality": "low",
+    "post_fx": "normal",
+    "vsync": false,
+    "extended_distance_scaling": 0
+  },
+  "ragemp": {
+    "clear_cache": true,
+    "priority": "high",
+    "optimize_streaming": true
+  }
+}
