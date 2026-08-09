@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OptiGTA5RP FPS preset -->
+<settings>
+    <graphics>
+        <populationDensity>0.35</populationDensity>
+        <populationVariety>0.25</populationVariety>
+        <distanceScaling>0.55</distanceScaling>
+        <shadowQuality>low</shadowQuality>
+        <reflectionQuality>low</reflectionQuality>
+        <waterQuality>normal</waterQuality>
+        <grassQuality>low</grassQuality>
+        <softShadows>off</softShadows>
+        <postFX>normal</postFX>
+        <motionBlur value="0" />
+    </graphics>
+    <ragemp>
+        <cacheOptimization>true</cacheOptimization>
+        <streamingOptimization>true</streamingOptimization>
+    </ragemp>
+</settings>
