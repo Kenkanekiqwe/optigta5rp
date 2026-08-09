@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- OptiGTA5RP recommended settings -->
+<Settings>
+  <Graphics>
+    <PopulationDensity value="0.35" />
+    <PopulationVariety value="0.4" />
+    <DistanceScaling value="0.65" />
+    <ShadowQuality value="0" />
+    <ReflectionQuality value="0" />
+    <GrassQuality value="0" />
+    <TextureQuality value="2" />
+    <ShaderQuality value="1" />
+  </Graphics>
+</Settings>
